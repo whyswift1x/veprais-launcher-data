@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "servers": [
+    {
+      "status": true,
+      "id": 1,
+      "name": "VEPRAIS",
+      "host": "127.0.0.1",
+      "port": 22005,
+      "players": 0,
+      "max_players": 1000,
+      "ico": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/logo.png",
+      "background": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/server-background.png",
+      "emoji": "V",
+      "open_at": null,
+      "bp_multiply": 0,
+      "rp_multiply": 0
+    }
+  ],
+  "news": [
+    {
+      "alias": "welcome",
+      "created_at": "2026-08-13T00:00:00.000Z",
+      "description": "Официальный лаунчер проекта VEPRAIS",
+      "id": 1,
+      "img_link": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/news-welcome.png",
+      "link": "",
+      "little_text": "Добро пожаловать в игровой мир VEPRAIS!",
+      "locale": "ru",
+      "published_at": "2026-08-13T00:00:00.000Z",
+      "text": "<p>Добро пожаловать в VEPRAIS.</p>",
+      "title": "Добро пожаловать в VEPRAIS",
+      "updated_at": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "alias": "launcher",
+      "created_at": "2026-08-13T00:00:00.000Z",
+      "description": "Новости проекта в лаунчере",
+      "id": 2,
+      "img_link": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/news-launcher.png",
+      "link": "",
+      "little_text": "Все новости и обновления теперь в лаунчере!",
+      "locale": "ru",
+      "published_at": "2026-08-13T00:00:00.000Z",
+      "text": "<p>Следите за обновлениями VEPRAIS.</p>",
+      "title": "Новости VEPRAIS",
+      "updated_at": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "alias": "community",
+      "created_at": "2026-08-13T00:00:00.000Z",
+      "description": "Сообщество VEPRAIS",
+      "id": 3,
+      "img_link": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/news-community.png",
+      "link": "",
+      "little_text": "Присоединяйтесь к сообществу VEPRAIS!",
+      "locale": "ru",
+      "published_at": "2026-08-13T00:00:00.000Z",
+      "text": "<p>Общайтесь и играйте вместе.</p>",
+      "title": "Сообщество VEPRAIS",
+      "updated_at": "2026-08-13T00:00:00.000Z"
+    }
+  ],
+  "media": {
+    "streamers": [],
+    "videos": []
+  },
+  "links": {
+    "website": "https://github.com/whyswift1x/veprais-launcher-data",
+    "discord": "https://discord.com",
+    "vk": "https://vk.com",
+    "youtube": "https://youtube.com",
+    "telegram": "https://t.me",
+    "purchase": "https://github.com/whyswift1x/veprais-launcher-data"
+  }
+}
