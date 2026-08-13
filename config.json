@@ -21,27 +21,27 @@
   ],
   "news": [
     {
-      "alias": "launcher",
+      "alias": "launcher-ready",
       "created_at": "2026-08-14T00:00:00.000Z",
-      "description": "Новости проекта в лаунчере",
+      "description": "Лаунчер готов!",
       "id": 1,
-      "img_link": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/news-launcher.png",
+      "img_link": "",
       "link": "",
-      "little_text": "Все новости и обновления теперь в лаунчере!",
+      "little_text": "Лаунчер готов!",
       "locale": "ru",
       "published_at": "2026-08-14T00:00:00.000Z",
-      "text": "<p>Все новости и обновления теперь в лаунчере!</p>",
-      "title": "Все новости и обновления теперь в лаунчере!",
+      "text": "<p>Лаунчер готов!</p>",
+      "title": "Лаунчер готов!",
       "updated_at": "2026-08-14T00:00:00.000Z"
     }
   ],
   "media": { "streamers": [], "videos": [] },
   "links": {
     "website": "https://github.com/whyswift1x/veprais-launcher-data",
-    "discord": "https://discord.com",
-    "vk": "https://vk.com",
+    "discord": "https://discord.gg/veprais",
+    "vk": "https://vk.ru/vepraisrp",
     "youtube": "https://youtube.com",
-    "telegram": "https://t.me",
+    "telegram": "https://t.me/VepraisRoleplay",
     "purchase": "https://github.com/whyswift1x/veprais-launcher-data"
   }
 }
