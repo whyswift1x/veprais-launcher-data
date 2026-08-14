@@ -9,8 +9,8 @@
       "port": 22005,
       "players": 0,
       "max_players": 1000,
-      "ico": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/logo.png",
-      "background": "https://raw.githubusercontent.com/whyswift1x/veprais-launcher-data/main/assets/server-background.png",
+      "ico": "https://raw.githubusercontent.com/whyswift1x/vp-live-7c91f2/main/assets/logo.png",
+      "background": "https://raw.githubusercontent.com/whyswift1x/vp-live-7c91f2/main/assets/server-background.png",
       "emoji": "♛",
       "development": true,
       "status_text": "Сервер в разработке",
@@ -37,11 +37,11 @@
   ],
   "media": { "streamers": [], "videos": [] },
   "links": {
-    "website": "https://github.com/whyswift1x/veprais-launcher-data",
+    "website": "https://vk.ru/vepraisrp",
     "discord": "https://discord.gg/veprais",
     "vk": "https://vk.ru/vepraisrp",
     "youtube": "https://youtube.com",
     "telegram": "https://t.me/VepraisRoleplay",
-    "purchase": "https://github.com/whyswift1x/veprais-launcher-data"
+    "purchase": "https://vk.ru/vepraisrp"
   }
 }
